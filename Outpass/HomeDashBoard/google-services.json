@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "489988292838",
+    "firebase_url": "https://outpass-d77df.firebaseio.com",
+    "project_id": "outpass-d77df",
+    "storage_bucket": "outpass-d77df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489988292838:android:dee288ced0ef6787fd7b27",
+        "android_client_info": {
+          "package_name": "com.example.homedashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489988292838-r8875idnbkt3qh1pia56cfr8o83i9g3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homedashboard",
+            "certificate_hash": "ee3827a5c9ddf5a60babc6eae316c566a9f737d9"
+          }
+        },
+        {
+          "client_id": "489988292838-igg8ct0qvhbruhqefnu1n6m04u7h7shg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4tI-2gGIsGombqoK9Fb5KABrlbgmaPKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489988292838-igg8ct0qvhbruhqefnu1n6m04u7h7shg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
